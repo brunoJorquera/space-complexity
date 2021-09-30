@@ -131,7 +131,7 @@ function getNumbersSquared(numbers) {
 
 
 // Q: Is it possible to improve this function's space complexity? If it is, write a new function below.
-// ANSWER:
+// ANSWER: No, it's already linear, if this function focused on one specific property, then making it constant would help. Otherwise, no.
 
 
 // 11) Here are two functions that you came up with to count how many of each letter is in a given string and return an object with the individual counts: 
